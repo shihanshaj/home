@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.cdbba13a.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/shihan.png": "/static/media/shihan.4c2ad600e51f649acec9.png",
+    "static/media/camino.png": "/static/media/camino.64eac840e66c02a5008a.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.cdbba13a.js.map": "/static/js/main.cdbba13a.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.cdbba13a.js"
+  ]
+}
